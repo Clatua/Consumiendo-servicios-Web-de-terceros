@@ -1,0 +1,2 @@
+Se entiende que las funciones callback se tienen que ir anidando en forma de preguntas o en ciclo,
+para asi ir buscando cada una para encontrar el cual es el error que hay.

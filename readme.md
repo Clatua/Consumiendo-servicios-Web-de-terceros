@@ -1,0 +1,1 @@
+Se desarrollo una interfaz en HTML donde el usuario puede escribir un par de cordenadas o el nombre de la locación si así lo desea, y al presionar el botón correspondiente arroje los datos del clima de la ciudad a buscar.
